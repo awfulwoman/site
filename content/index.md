@@ -1,5 +1,6 @@
 ---
 title: This is the default index page
+layout: layouts/home.njk
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus et turpis a dapibus. Etiam et ultricies magna. Pellentesque tincidunt mauris sed risus fringilla, vitae interdum risus elementum. Phasellus nibh risus, vehicula malesuada hendrerit sit amet, dictum non turpis. Phasellus posuere varius velit. Aenean placerat euismod mauris, eu imperdiet metus dictum eu. Quisque sit amet felis sed quam sollicitudin lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec commodo sapien eu lacus faucibus, non eleifend mauris pulvinar.
